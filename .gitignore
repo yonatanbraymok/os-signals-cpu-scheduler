@@ -1,0 +1,5 @@
+ex3
+*.o
+.DS_Store
+.vscode/
+.idea/
